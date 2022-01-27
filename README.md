@@ -3,7 +3,7 @@
 
 ## Good to see you! 🎆![visitors](https://visitor-badge.glitch.me/badge?page_id=McTastic.McTastic)🎆
 
-I am a (stop me if you've heard this before) full stack web developser. I enjoy writing code, looking at code, talking about code and pretty much anything dealing with software since I love understanding how it all works!  
+I am (stop me if you've heard this before) a full stack web developser. I enjoy writing code, looking at code, talking about code and pretty much anything dealing with software since I love understanding how it all works!  
 
 I have a pretty good eye for seeing how things work and love to think about design or user interfeaces (UX).
 
