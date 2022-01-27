@@ -9,4 +9,4 @@ I have a pretty good eye for seeing how things work and love to think about desi
 
 ## GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=McTastic&icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=aura " />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctastic&theme=aura " />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctastic&theme=aura " />
