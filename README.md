@@ -8,7 +8,6 @@ I am (stop me if you've heard this before) a full stack web developser. I enjoy 
 I have a pretty good eye for seeing how things work and love to think about design or user interfeaces (UX).
 
 ## GitHub Stats
-<div>
+
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=McTastic&icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=aura " />
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctastic&theme=aura " />
-</div>
